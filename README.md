@@ -8,6 +8,7 @@ A Full stack web development Project "PG Life"
 
 #Changes in code on your system -
 - In file 'includes/database_connect.php':-
+          
           <?php
           $conn = mysqli_connect("localhost",
                                  "username_of_phpmyadmin", 
