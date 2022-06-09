@@ -19,7 +19,7 @@ session_start();
     <?php
     include "includes/header.php";
     ?>
-
+    
     <div class="banner-container">
         <h2 class="white pb-3">Happiness per Square Foot</h2>
 
