@@ -8,8 +8,8 @@ A Full stack web development Project "PG Life"
 
 #Changes in code on your system -
 - In file 'includes/database_connect.php':-
-          
-          <?php
+
+     <?php
           $conn = mysqli_connect("localhost",
                                  "username_of_phpmyadmin", 
                                  "password_of_phpmyadmin",
@@ -18,4 +18,4 @@ A Full stack web development Project "PG Life"
           if (mysqli_connect_errno()) {
               echo "Failed to connect to MySQL! Please contact the admin.";
               return;
-          }
+      }
